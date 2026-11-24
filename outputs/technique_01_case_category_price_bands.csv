@@ -1,0 +1,10 @@
+product_code,name,category_raw,category_clean,price_pkr,price_band
+PRD-01,Wireless Mouse,electronics,Electronics,2500,"Budget (< PKR 3,000)"
+PRD-02,Mechanical Keyboard,Electronics ,Electronics,8500,"Mid-range (PKR 3,000-9,999)"
+PRD-03,Laptop Stand,ELECTRONICS,Electronics,4500,"Mid-range (PKR 3,000-9,999)"
+PRD-04,Office Chair,Furniture,Furniture,18000,"Premium (PKR 10,000+)"
+PRD-05,Desk Lamp,furniture,Furniture,4200,"Mid-range (PKR 3,000-9,999)"
+PRD-06,Notebook Set,stationery,Stationery,1200,"Budget (< PKR 3,000)"
+PRD-07,Ceramic Mug Set,Kitchen,Kitchen,3200,"Mid-range (PKR 3,000-9,999)"
+PRD-08,Dinner Set 24pc,kitchen ,Kitchen,14500,"Premium (PKR 10,000+)"
+PRD-09,Bluetooth Speaker,Elec.,Electronics,6500,"Mid-range (PKR 3,000-9,999)"

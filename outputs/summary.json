@@ -1,0 +1,61 @@
+{
+  "raw_customer_rows": 15,
+  "raw_product_rows": 9,
+  "raw_order_rows": 34,
+  "raw_line_rows": 54,
+  "clean_customers": 12,
+  "clean_orders": 32,
+  "clean_lines": 52,
+  "dedup_removed_customers": 3,
+  "dedup_removed_orders": 2,
+  "dedup_removed_lines": 2,
+  "nulls_fixed": 2,
+  "clean_revenue_pkr": 346800,
+  "monthly_revenue_pkr": {
+    "2026-01": 37100,
+    "2026-02": 50000,
+    "2026-03": 30500,
+    "2026-04": 62100,
+    "2026-05": 72900,
+    "2026-06": 94200
+  },
+  "revenue_by_channel_pkr": {
+    "Online": 116600,
+    "In-Store": 113200,
+    "Phone": 117000
+  },
+  "revenue_by_category_pkr": {
+    "Kitchen": 106000,
+    "Furniture": 105600,
+    "Electronics": 104000,
+    "Stationery": 31200
+  },
+  "technique_rows": {
+    "t01": 9,
+    "t02": 54,
+    "t03": 15,
+    "t04": 34,
+    "t05": 54,
+    "t06": 12,
+    "t07": 6,
+    "t08": 4,
+    "t09": 32,
+    "t10": 52
+  },
+  "distinct_customers_in_mart": 10,
+  "distinct_products_in_mart": 8,
+  "unknown_city_orders": 5,
+  "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "orders_by_channel": {
+    "Online": 11,
+    "In-Store": 10,
+    "Phone": 11
+  }
+}

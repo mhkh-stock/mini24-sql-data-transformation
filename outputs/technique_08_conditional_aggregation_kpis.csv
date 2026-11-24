@@ -1,0 +1,5 @@
+category,lines,orders,revenue_pkr,online_pkr,in_store_pkr,phone_pkr,avg_line_pkr,premium_lines,share_pct
+Kitchen,14,14,106000,36900,38600,30500,7571.43,4,30.57
+Furniture,10,10,105600,16800,48600,40200,10560.0,4,30.45
+Electronics,19,16,104000,54500,14000,35500,5473.68,0,29.99
+Stationery,9,9,31200,8400,12000,10800,3466.67,0,9.0

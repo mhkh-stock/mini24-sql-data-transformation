@@ -1,0 +1,2 @@
+# Mini #24 — SQL Data Transformation Pack
+# Standard library only (sqlite3, csv, json). No dependencies.

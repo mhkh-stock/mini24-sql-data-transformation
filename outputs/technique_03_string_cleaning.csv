@@ -1,0 +1,16 @@
+customer_code,name_raw,name_trimmed,name_upper,first_name,last_name,city_raw,city_trimmed,city_upper,city_nullif,email_clean,updated_at
+CUST-001,  ayesha khan,ayesha khan,AYESHA KHAN,ayesha,khan,lahore,lahore,LAHORE,lahore,,2026-01-05
+CUST-001,Ayesha Khan,Ayesha Khan,AYESHA KHAN,Ayesha,Khan,Lahore,Lahore,LAHORE,Lahore,ayesha@example.pk,2026-03-10
+CUST-002,bilal ahmed,bilal ahmed,BILAL AHMED,bilal,ahmed,Karachi,Karachi,KARACHI,Karachi,bilal@example.pk,2026-01-12
+CUST-003,FATIMA NOOR,FATIMA NOOR,FATIMA NOOR,FATIMA,NOOR,,,,,,2026-02-01
+CUST-003,Fatima Noor,Fatima Noor,FATIMA NOOR,Fatima,Noor,Islamabad,Islamabad,ISLAMABAD,Islamabad,fatima@example.pk,2026-04-02
+CUST-004,Hassan Raza,Hassan Raza,HASSAN RAZA,Hassan,Raza,  rawalpindi ,rawalpindi,RAWALPINDI,rawalpindi,hassan@example.pk,2026-01-20
+CUST-005,zainab ali,zainab ali,ZAINAB ALI,zainab,ali,,,,,zainab@example.pk,2026-02-03
+CUST-006,Usman Tariq,Usman Tariq,USMAN TARIQ,Usman,Tariq,Peshawar,Peshawar,PESHAWAR,Peshawar,,2026-02-10
+CUST-007,maryam siddiqui,maryam siddiqui,MARYAM SIDDIQUI,maryam,siddiqui,lahore,lahore,LAHORE,lahore,maryam@example.pk,2026-03-15
+CUST-007,Maryam Siddiqui,Maryam Siddiqui,MARYAM SIDDIQUI,Maryam,Siddiqui,Lahore,Lahore,LAHORE,Lahore,maryam@example.pk,2026-03-20
+CUST-008,Ali Nawaz,Ali Nawaz,ALI NAWAZ,Ali,Nawaz,Multan,Multan,MULTAN,Multan,ali@example.pk,2026-03-22
+CUST-009,SARA MALIK,SARA MALIK,SARA MALIK,SARA,MALIK,Faisalabad,Faisalabad,FAISALABAD,Faisalabad,,2026-04-10
+CUST-010,Omar Farooq,Omar Farooq,OMAR FAROOQ,Omar,Farooq,,,,,omar@example.pk,2026-04-18
+CUST-011,Hina Shah,Hina Shah,HINA SHAH,Hina,Shah,Quetta,Quetta,QUETTA,Quetta,hina@example.pk,2026-05-05
+CUST-012,Danish Iqbal,Danish Iqbal,DANISH IQBAL,Danish,Iqbal,Hyderabad,Hyderabad,HYDERABAD,Hyderabad,danish@example.pk,2026-05-20

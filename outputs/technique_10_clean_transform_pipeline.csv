@@ -1,0 +1,53 @@
+order_id,order_date,month,customer_code,customer_name,city,channel,order_code,city_code,product_code,product_name,category,quantity,unit_price_pkr,line_revenue_pkr
+1,2026-01-08,2026-01,CUST-001,Ayesha Khan,Lahore,Online,LAH-00001,LAH,PRD-01,Wireless Mouse,Electronics,2,2500,5000
+1,2026-01-08,2026-01,CUST-001,Ayesha Khan,Lahore,Online,LAH-00001,LAH,PRD-06,Notebook Set,Stationery,3,1200,3600
+1,2026-01-08,2026-01,CUST-001,Ayesha Khan,Lahore,Online,LAH-00001,LAH,PRD-07,Ceramic Mug Set,Kitchen,1,3200,3200
+2,2026-02-14,2026-02,CUST-001,Ayesha Khan,Lahore,Phone,LAH-00002,LAH,PRD-02,Mechanical Keyboard,Electronics,1,8500,8500
+2,2026-02-14,2026-02,CUST-001,Ayesha Khan,Lahore,Phone,LAH-00002,LAH,PRD-07,Ceramic Mug Set,Kitchen,2,3200,6400
+3,2026-04-02,2026-04,CUST-001,Ayesha Khan,Lahore,Phone,LAH-00003,LAH,PRD-04,Office Chair,Furniture,1,18000,18000
+4,2026-01-15,2026-01,CUST-002,Bilal Ahmed,Karachi,In-Store,KHI-00004,KHI,PRD-01,Wireless Mouse,Electronics,1,2500,2500
+4,2026-01-15,2026-01,CUST-002,Bilal Ahmed,Karachi,In-Store,KHI-00004,KHI,PRD-03,Laptop Stand,Electronics,1,4500,4500
+5,2026-03-20,2026-03,CUST-002,Bilal Ahmed,Karachi,In-Store,KHI-00005,KHI,PRD-08,Dinner Set 24pc,Kitchen,1,14500,14500
+6,2026-05-11,2026-05,CUST-002,Bilal Ahmed,Karachi,Online,KHI-00006,KHI,PRD-02,Mechanical Keyboard,Electronics,1,8500,8500
+6,2026-05-11,2026-05,CUST-002,Bilal Ahmed,Karachi,Online,KHI-00006,KHI,PRD-05,Desk Lamp,Furniture,2,4200,8400
+6,2026-05-11,2026-05,CUST-002,Bilal Ahmed,Karachi,Online,KHI-00006,KHI,PRD-07,Ceramic Mug Set,Kitchen,1,3200,3200
+7,2026-01-22,2026-01,CUST-003,Fatima Noor,Islamabad,Phone,ISB-00007,ISB,PRD-06,Notebook Set,Stationery,5,1200,6000
+8,2026-02-28,2026-02,CUST-003,Fatima Noor,Islamabad,Online,ISB-00008,ISB,PRD-01,Wireless Mouse,Electronics,2,2500,5000
+8,2026-02-28,2026-02,CUST-003,Fatima Noor,Islamabad,Online,ISB-00008,ISB,PRD-07,Ceramic Mug Set,Kitchen,1,3200,3200
+9,2026-06-05,2026-06,CUST-003,Fatima Noor,Islamabad,In-Store,ISB-00009,ISB,PRD-03,Laptop Stand,Electronics,1,4500,4500
+9,2026-06-05,2026-06,CUST-003,Fatima Noor,Islamabad,In-Store,ISB-00009,ISB,PRD-08,Dinner Set 24pc,Kitchen,1,14500,14500
+10,2026-02-05,2026-02,CUST-004,Hassan Raza,Rawalpindi,In-Store,RWP-00010,RWP,PRD-05,Desk Lamp,Furniture,1,4200,4200
+10,2026-02-05,2026-02,CUST-004,Hassan Raza,Rawalpindi,In-Store,RWP-00010,RWP,PRD-07,Ceramic Mug Set,Kitchen,1,3200,3200
+11,2026-04-18,2026-04,CUST-004,Hassan Raza,Rawalpindi,In-Store,RWP-00011,RWP,PRD-04,Office Chair,Furniture,1,18000,18000
+11,2026-04-18,2026-04,CUST-004,Hassan Raza,Rawalpindi,In-Store,RWP-00011,RWP,PRD-06,Notebook Set,Stationery,2,1200,2400
+12,2026-02-12,2026-02,CUST-005,Zainab Ali,Unknown,Phone,UNK-00012,UNK,PRD-07,Ceramic Mug Set,Kitchen,3,3200,9600
+13,2026-05-25,2026-05,CUST-005,Zainab Ali,Unknown,Phone,UNK-00013,UNK,PRD-02,Mechanical Keyboard,Electronics,1,8500,8500
+13,2026-05-25,2026-05,CUST-005,Zainab Ali,Unknown,Phone,UNK-00013,UNK,PRD-01,Wireless Mouse,Electronics,1,2500,2500
+14,2026-03-03,2026-03,CUST-006,Usman Tariq,Peshawar,Online,PEW-00014,PEW,PRD-06,Notebook Set,Stationery,4,1200,4800
+15,2026-03-29,2026-03,CUST-006,Usman Tariq,Peshawar,Phone,PEW-00015,PEW,PRD-01,Wireless Mouse,Electronics,1,2500,2500
+15,2026-03-29,2026-03,CUST-006,Usman Tariq,Peshawar,Phone,PEW-00015,PEW,PRD-05,Desk Lamp,Furniture,1,4200,4200
+16,2026-06-12,2026-06,CUST-006,Usman Tariq,Peshawar,Phone,PEW-00016,PEW,PRD-08,Dinner Set 24pc,Kitchen,1,14500,14500
+17,2026-03-15,2026-03,CUST-007,Maryam Siddiqui,Lahore,Online,LAH-00017,LAH,PRD-03,Laptop Stand,Electronics,1,4500,4500
+18,2026-04-22,2026-04,CUST-007,Maryam Siddiqui,Lahore,Online,LAH-00018,LAH,PRD-02,Mechanical Keyboard,Electronics,1,8500,8500
+18,2026-04-22,2026-04,CUST-007,Maryam Siddiqui,Lahore,Online,LAH-00018,LAH,PRD-07,Ceramic Mug Set,Kitchen,2,3200,6400
+19,2026-01-30,2026-01,CUST-008,Ali Nawaz,Multan,Online,MUX-00019,MUX,PRD-01,Wireless Mouse,Electronics,3,2500,7500
+20,2026-05-08,2026-05,CUST-008,Ali Nawaz,Multan,In-Store,MUX-00020,MUX,PRD-04,Office Chair,Furniture,1,18000,18000
+20,2026-05-08,2026-05,CUST-008,Ali Nawaz,Multan,In-Store,MUX-00020,MUX,PRD-06,Notebook Set,Stationery,1,1200,1200
+21,2026-04-10,2026-04,CUST-009,Sara Malik,Faisalabad,Phone,FSD-00021,FSD,PRD-06,Notebook Set,Stationery,2,1200,2400
+22,2026-06-20,2026-06,CUST-009,Sara Malik,Faisalabad,Online,FSD-00022,FSD,PRD-08,Dinner Set 24pc,Kitchen,1,14500,14500
+22,2026-06-20,2026-06,CUST-009,Sara Malik,Faisalabad,Online,FSD-00022,FSD,PRD-05,Desk Lamp,Furniture,1,4200,4200
+23,2026-04-15,2026-04,CUST-010,Omar Farooq,Unknown,In-Store,UNK-00023,UNK,PRD-07,Ceramic Mug Set,Kitchen,2,3200,6400
+24,2026-05-30,2026-05,CUST-010,Omar Farooq,Unknown,Online,UNK-00024,UNK,PRD-02,Mechanical Keyboard,Electronics,1,8500,8500
+24,2026-05-30,2026-05,CUST-010,Omar Farooq,Unknown,Online,UNK-00024,UNK,PRD-07,Ceramic Mug Set,Kitchen,1,3200,3200
+25,2026-06-18,2026-06,CUST-001,Ayesha Khan,Lahore,In-Store,LAH-00025,LAH,PRD-05,Desk Lamp,Furniture,2,4200,8400
+25,2026-06-18,2026-06,CUST-001,Ayesha Khan,Lahore,In-Store,LAH-00025,LAH,PRD-06,Notebook Set,Stationery,3,1200,3600
+26,2026-06-25,2026-06,CUST-002,Bilal Ahmed,Karachi,Phone,KHI-00026,KHI,PRD-01,Wireless Mouse,Electronics,2,2500,5000
+27,2026-06-02,2026-06,CUST-004,Hassan Raza,Rawalpindi,Online,RWP-00027,RWP,PRD-03,Laptop Stand,Electronics,1,4500,4500
+27,2026-06-02,2026-06,CUST-004,Hassan Raza,Rawalpindi,Online,RWP-00027,RWP,PRD-01,Wireless Mouse,Electronics,1,2500,2500
+28,2026-01-19,2026-01,CUST-005,Zainab Ali,Unknown,In-Store,UNK-00028,UNK,PRD-06,Notebook Set,Stationery,4,1200,4800
+29,2026-06-28,2026-06,CUST-007,Maryam Siddiqui,Lahore,Phone,LAH-00029,LAH,PRD-04,Office Chair,Furniture,1,18000,18000
+30,2026-02-21,2026-02,CUST-008,Ali Nawaz,Multan,Online,MUX-00030,MUX,PRD-05,Desk Lamp,Furniture,1,4200,4200
+30,2026-02-21,2026-02,CUST-008,Ali Nawaz,Multan,Online,MUX-00030,MUX,PRD-07,Ceramic Mug Set,Kitchen,1,3200,3200
+31,2026-02-08,2026-02,CUST-009,Sara Malik,Faisalabad,In-Store,FSD-00031,FSD,PRD-01,Wireless Mouse,Electronics,1,2500,2500
+32,2026-05-14,2026-05,CUST-003,Fatima Noor,Islamabad,Phone,ISB-00032,ISB,PRD-02,Mechanical Keyboard,Electronics,1,8500,8500
+32,2026-05-14,2026-05,CUST-003,Fatima Noor,Islamabad,Phone,ISB-00032,ISB,PRD-06,Notebook Set,Stationery,2,1200,2400

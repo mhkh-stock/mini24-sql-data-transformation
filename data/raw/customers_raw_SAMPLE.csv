@@ -1,0 +1,16 @@
+customer_code,name,city,signup_date_text,email,updated_at
+CUST-001,  ayesha khan,lahore,05/01/2026,,2026-01-05
+CUST-001,Ayesha Khan,Lahore,2026-01-05,ayesha@example.pk,2026-03-10
+CUST-002,bilal ahmed,Karachi,2026-01-12,bilal@example.pk,2026-01-12
+CUST-003,FATIMA NOOR,,12/02/2026,,2026-02-01
+CUST-003,Fatima Noor,Islamabad,2026-02-12,fatima@example.pk,2026-04-02
+CUST-004,Hassan Raza,  rawalpindi ,2026-01-20,hassan@example.pk,2026-01-20
+CUST-005,zainab ali,,03/02/2026,zainab@example.pk,2026-02-03
+CUST-006,Usman Tariq,Peshawar,2026-02-10,,2026-02-10
+CUST-007,maryam siddiqui,lahore,15/03/2026,maryam@example.pk,2026-03-15
+CUST-007,Maryam Siddiqui,Lahore,2026-03-15,maryam@example.pk,2026-03-20
+CUST-008,Ali Nawaz,Multan,2026-03-22,ali@example.pk,2026-03-22
+CUST-009,SARA MALIK,Faisalabad,10/04/2026,,2026-04-10
+CUST-010,Omar Farooq,,2026-04-18,omar@example.pk,2026-04-18
+CUST-011,Hina Shah,Quetta,2026-05-05,hina@example.pk,2026-05-05
+CUST-012,Danish Iqbal,Hyderabad,20/05/2026,danish@example.pk,2026-05-20
